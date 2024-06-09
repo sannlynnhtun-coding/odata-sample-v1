@@ -5,6 +5,11 @@ VisualStudioVersion = 17.11.34929.205
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8WebApi.ODataSample", "DotNet8WebApi.ODataSample\DotNet8WebApi.ODataSample.csproj", "{E99CA9F7-1172-4BA9-86B5-77C0A669DBB9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{F5B0C1A3-EA45-4C75-AA6C-2A8678B6091F}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
