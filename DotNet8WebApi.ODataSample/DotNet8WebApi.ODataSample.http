@@ -1,0 +1,6 @@
+@DotNet8WebApi.ODataSample_HostAddress = http://localhost:5033
+
+GET {{DotNet8WebApi.ODataSample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
